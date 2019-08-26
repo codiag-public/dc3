@@ -2,7 +2,7 @@
 DC3 is a collection of 31 extremely difficult diagnostic case challenges, that were manually compiled and solved by clinical experts. For each case, there are a number of temporally ordered physician-generated observations alongside the eventually confirmed true diagnosis. We additionally provide inferred dense relevance judgments for these cases in the [PubMed Collection](https://www.ncbi.nlm.nih.gov/pubmed/) of scholarly biomedical articles.
 
 ## Dataset Description
-The dataset is described in detail in our [ICTIR 2019 paper]().
+The dataset is described in detail in our [ICTIR 2019 paper](https://arxiv.org/abs/1908.08581).
 
 ## Requirements
 * python > 2.7
